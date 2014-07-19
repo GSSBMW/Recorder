@@ -1,6 +1,6 @@
 Recorder
 ========
 
-Recorder and write data to file in specified duration. 
+Recorder and write data to .wav file in specified duration. 
 
 
